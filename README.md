@@ -105,39 +105,8 @@ A real-time face tracking application built using **Python** and **OpenCV**. Thi
 
 ---
 
-## Contributing
 
-Contributions are welcome! To contribute:
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add some feature"
-   ```
-4. Push your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-## Acknowledgments
-
-- OpenCV documentation and community for their invaluable resources.
-- Haar Cascade Classifier for providing a pre-trained detection model.
-
----
 
 Enjoy tracking faces in real-time! 😊
 
