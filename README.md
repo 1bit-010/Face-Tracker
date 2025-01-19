@@ -14,7 +14,7 @@ A real-time face tracking application built using **Python** and **OpenCV**. Thi
 3. **User-Friendly Exit**:
    - Exit the video feed by pressing `q`.
 
----
+
 
 ## Prerequisites
 
@@ -30,7 +30,7 @@ A real-time face tracking application built using **Python** and **OpenCV**. Thi
 3. **Haar Cascade XML File**:
    - OpenCV includes pre-trained Haar Cascade classifiers. This program uses the `haarcascade_frontalface_default.xml` file, which is included in OpenCV's default installation.
 
----
+
 
 ## Installation
 
@@ -49,7 +49,7 @@ A real-time face tracking application built using **Python** and **OpenCV**. Thi
    python face_tracker.py
    ```
 
----
+
 
 ## Usage
 
@@ -87,7 +87,6 @@ A real-time face tracking application built using **Python** and **OpenCV**. Thi
      )
      ```
 
----
 
 ## Future Enhancements
 
@@ -103,7 +102,7 @@ A real-time face tracking application built using **Python** and **OpenCV**. Thi
 4. **GUI Support**:
    - Create a graphical user interface using `tkinter` or `PyQt`.
 
----
+
 
 
 
