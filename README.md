@@ -44,10 +44,6 @@ A real-time face tracking application built using **Python** and **OpenCV**. Thi
    cd face-tracker
    ```
 
-3. Run the program:
-   ```bash
-   python face_tracker.py
-   ```
 
 
 
