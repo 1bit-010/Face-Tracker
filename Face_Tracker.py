@@ -1,12 +1,7 @@
 import cv2
 
 def face_tracker(video_source=0):
-    """
-    Tracks faces in real-time using OpenCV and displays them in a live video feed.
-    
-    Args:
-        video_source (int or str): Camera index (e.g., 0 for the default webcam) or video file path.
-    """
+   
     # Load the Haar Cascade XML file for face detection
     face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml') # type: ignore
     
