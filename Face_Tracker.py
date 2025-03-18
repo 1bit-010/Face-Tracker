@@ -48,6 +48,6 @@ def face_tracker(video_source=0):
     video_capture.release()
     cv2.destroyAllWindows()
 
-# Run the face tracker
+# Run the face tracker!!
 if __name__ == "__main__":
     face_tracker()
