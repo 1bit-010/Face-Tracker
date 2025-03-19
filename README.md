@@ -100,8 +100,5 @@ A real-time face tracking application built using **Python** and **OpenCV**. Thi
 
 
 
-
-
-
 Enjoy tracking faces in real-time! 😊
 
