@@ -44,7 +44,7 @@ def face_tracker(video_source=0):
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
     
-    # Release the video capture and close OpenCV windows
+    # Release the video capture and close OpenCV windows.
     video_capture.release()
     cv2.destroyAllWindows()
 
