@@ -43,7 +43,7 @@ def detect_faces(video_input=0):
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
     
-    # Release resources and close windows
+    # Release resources and close  windows
     video_stream.release()
     cv2.destroyAllWindows()
 
