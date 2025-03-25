@@ -47,6 +47,6 @@ def detect_faces(video_input=0):
     video_stream.release()
     cv2.destroyAllWindows()
 
-# Execute the function
+# Execute the function........
 if __name__ == "__main__":
     detect_faces()
