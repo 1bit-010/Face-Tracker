@@ -37,7 +37,7 @@ A real-time face tracking application built using **Python** and **OpenCV**. Thi
 1. Clone this repository or download the source code:
    ```bash
    git clone https://github.com/1bit-010/Face-Tracker.git
-   ```
+
 
 2. Navigate to the project directory:
    ```bash
